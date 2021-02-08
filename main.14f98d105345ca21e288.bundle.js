@@ -1,1 +1,0 @@
-(()=>{"use strict";console.log("Hello from webpack"),window.onscroll=function(){var o=window.pageYOffset,e=document.getElementById("navbar");o>300?(e.style.backgroundColor="black",e.style.backgroundColor="0 2px 0 rgba(0, 0, 0, 0.4)"):(e.style.backgroundColor="transparent",e.style.boxShadow="none"),prevScrollpos=o}})();
